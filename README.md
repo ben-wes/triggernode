@@ -3,7 +3,7 @@ Pd library to create trigger node networks
 
 ### Howto 
 * point an additional Pd path or `[declare -path]` declaration to the `lib` folder in this repository to make required abstractions accessible
-* requires `iemguts` and `ELSE` (see Deken)
+* requires `iemguts` (see Deken)
 * open `triggernode-help.pd` to see example
 
 ### Notes
